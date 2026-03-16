@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "name": "My Custom Tune",
+  "name": "Straya 5 Tune",
   "description": "5-inch tune for 4S/6S",
-  "author": "YourName",
+  "author": "Instinct",
   "target": "*",
   "category": "PID",
   "commands": [
