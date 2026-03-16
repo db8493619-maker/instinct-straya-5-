@@ -78,3 +78,5 @@ set feedforward_smooth_factor = 65
 set feedforward_jitter_factor = 20
 set feedforward_boost = 0
 set feedforward_max_rate_limit = 90
+
+save
