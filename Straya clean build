@@ -49,6 +49,8 @@
     "set anti_gravity_p_gain = 100",
     "set acc_limit_yaw = 0",
     "set acc_limit = 0",
+    "set gyro_notch1_hz = 50",
+    "set gyro_notch1_cutoff = 0",
     "set rpm_filter_harmonics = 3",
     "set rpm_filter_weights = 100,100,100",
     "set rpm_filter_q = 500",
