@@ -8,7 +8,7 @@
   "commands": [
     "set p_pitch = 46",
     "set i_pitch = 110",
-    "set d_pitch = 41",
+    "set d_pitch = 39",
     "set f_pitch = 65",
     "set p_roll = 43",
     "set i_roll = 105",
@@ -62,7 +62,7 @@
     "set dyn_notch_min_hz = 60",
     "set dyn_notch_max_hz = 600",
     "set gyro_lpf1_dyn_min_hz = 60",
-    "set gyro_lpf1_dyn_max_hz = 240",
+    "set gyro_lpf1_dyn_max_hz = 360",
     "set gyro_lpf1_dyn_expo = 5",
     "set tpa_mode = PD",
     "set tpa_rate = 30",
