@@ -68,7 +68,7 @@
     "set tpa_rate = 30",
     "set tpa_breakpoint = 1400",
     "set launch_control_gain = 40",
-    "set thrust_linear = 35",
+    "set thrust_linear = 25",
     "set transient_throttle_limit = 0",
     "set feedforward_transition = 0",
     "set feedforward_averaging = 2_POINT",
