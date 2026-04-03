@@ -16,7 +16,7 @@ set gyro_notch1_hz = 50
 set gyro_notch1_cutoff = 0
 
 set d_max_gain = 40
-set d_max_advance = 22
+set d_max_advance = 24
 
 set motor_output_limit = 92
 
