@@ -2,11 +2,11 @@ set p_pitch = 46
 set i_pitch = 110
 set d_pitch = 41
 set f_pitch = 65
-set p_roll = 46
+set p_roll = 43
 set i_roll = 105
-set d_roll = 41
+set d_roll = 39
 set f_roll = 65
-set p_yaw = 50
+set p_yaw = 47
 set i_yaw = 110
 set d_yaw = 0
 set f_yaw = 65
@@ -80,7 +80,7 @@ set feedforward_transition = 0
 set feedforward_averaging = 2_POINT
 set feedforward_smooth_factor = 55
 set feedforward_jitter_factor = 20
-set feedforward_boost = 20
+set feedforward_boost = 15
 set feedforward_max_rate_limit = 90
 
 save
