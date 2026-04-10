@@ -12,9 +12,6 @@ set d_yaw = 0
 set f_yaw = 65
 set dshot_idle_value = 700
 
-set gyro_notch1_hz = 50
-set gyro_notch1_cutoff = 0
-
 set d_max_gain = 40
 set d_max_advance = 24
 
@@ -25,7 +22,6 @@ set iterm_relax = RP
 set iterm_relax_type = GYRO
 set iterm_relax_cutoff = 9
 set iterm_windup = 85
-set iterm_limit = 250
 set pidsum_limit = 500
 set pidsum_limit_yaw = 400
 set yaw_lowpass_hz = 0
@@ -50,7 +46,7 @@ set acc_limit_yaw = 0
 set acc_limit = 0
 
 set rpm_filter_harmonics = 3
-set rpm_filter_weights = 100,100,100
+set rpm_filter_weights = 100,95,78
 set rpm_filter_q = 500
 set rpm_filter_min_hz = 50
 set rpm_filter_fade_range_hz = 50
@@ -65,13 +61,13 @@ set dyn_notch_count = 2
 set dyn_notch_q = 450
 set dyn_notch_min_hz = 60
 set dyn_notch_max_hz = 600
-set gyro_lpf1_dyn_min_hz = 60
-set gyro_lpf1_dyn_max_hz = 360
+set gyro_lpf1_dyn_min_hz = 90
+set gyro_lpf1_dyn_max_hz = 220
 set gyro_lpf1_dyn_expo = 5
 
 set tpa_mode = PD
-set tpa_rate = 30
-set tpa_breakpoint = 1400
+set tpa_rate = 85
+set tpa_breakpoint = 1300
 
 set launch_control_gain = 40
 set thrust_linear = 25
