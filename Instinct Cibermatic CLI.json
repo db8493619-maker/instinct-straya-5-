@@ -12,8 +12,8 @@ set d_yaw = 0
 set f_yaw = 60
 set dshot_idle_value = 700
 
-set d_max_gain = 40
-set d_max_advance = 24
+set d_max_gain = 41
+set d_max_advance = 25
 
 set motor_output_limit = 92
 
@@ -66,8 +66,8 @@ set gyro_lpf1_dyn_max_hz = 220
 set gyro_lpf1_dyn_expo = 5
 
 set tpa_mode = PD
-set tpa_rate = 75
-set tpa_breakpoint = 1300
+set tpa_rate = 65
+set tpa_breakpoint = 1350
 
 set launch_control_gain = 40
 set thrust_linear = 25
