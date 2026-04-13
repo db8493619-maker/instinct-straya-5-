@@ -46,7 +46,7 @@ set acc_limit_yaw = 0
 set acc_limit = 0
 
 set rpm_filter_harmonics = 3
-set rpm_filter_weights = 100,95,78
+set rpm_filter_weights = 100,95,100
 set rpm_filter_q = 500
 set rpm_filter_min_hz = 50
 set rpm_filter_fade_range_hz = 50
