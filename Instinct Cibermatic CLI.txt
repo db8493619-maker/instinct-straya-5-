@@ -1,15 +1,15 @@
 set p_pitch = 46
-set i_pitch = 110
+set i_pitch = 115
 set d_pitch = 41
-set f_pitch = 65
+set f_pitch = 60
 set p_roll = 43
-set i_roll = 105
+set i_roll = 120
 set d_roll = 39
-set f_roll = 65
+set f_roll = 60
 set p_yaw = 50
-set i_yaw = 110
+set i_yaw = 130
 set d_yaw = 0
-set f_yaw = 65
+set f_yaw = 60
 set dshot_idle_value = 700
 
 set d_max_gain = 40
@@ -25,7 +25,7 @@ set iterm_windup = 85
 set pidsum_limit = 500
 set pidsum_limit_yaw = 400
 set yaw_lowpass_hz = 0
-set throttle_boost = 0
+set throttle_boost = 5
 set throttle_boost_cutoff = 25
 
 set dterm_lpf1_dyn_min_hz = 100
@@ -46,7 +46,7 @@ set acc_limit_yaw = 0
 set acc_limit = 0
 
 set rpm_filter_harmonics = 3
-set rpm_filter_weights = 100,95,78
+set rpm_filter_weights = 100,95,100
 set rpm_filter_q = 500
 set rpm_filter_min_hz = 50
 set rpm_filter_fade_range_hz = 50
@@ -74,9 +74,9 @@ set thrust_linear = 25
 set transient_throttle_limit = 0
 set feedforward_transition = 0
 set feedforward_averaging = 2_POINT
-set feedforward_smooth_factor = 55
+set feedforward_smooth_factor = 65
 set feedforward_jitter_factor = 20
-set feedforward_boost = 15
+set feedforward_boost = 20
 set feedforward_max_rate_limit = 90
 
 save
