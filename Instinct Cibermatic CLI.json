@@ -1,21 +1,21 @@
-set p_pitch = 46
-set i_pitch = 115
-set d_pitch = 42
-set d_min_pitch = 42
+set p_pitch = 49
+set i_pitch = 150
+set d_pitch = 44
+set d_min_pitch = 44
 set f_pitch = 60
-set p_roll = 43
-set i_roll = 120
+set p_roll = 46
+set i_roll = 150
 set d_roll = 40
 set d_min_roll = 40
 set f_roll = 60
-set p_yaw = 50
-set i_yaw = 130
+set p_yaw = 75
+set i_yaw = 150
 set d_yaw = 0
 set f_yaw = 60
 set dshot_idle_value = 700
 
-set d_max_gain = 42
-set d_max_advance = 32
+set d_max_gain = 45
+set d_max_advance = 35
 
 set motor_output_limit = 92
 
