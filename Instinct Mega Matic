@@ -1,0 +1,85 @@
+set p_pitch = 50
+set i_pitch = 150
+set d_pitch = 45
+set d_min_pitch = 45
+set f_pitch = 60
+set p_roll = 48
+set i_roll = 150
+set d_roll = 42
+set d_min_roll = 42
+set f_roll = 60
+set p_yaw = 80
+set i_yaw = 150
+set d_yaw = 0
+set f_yaw = 60
+set dshot_idle_value = 700
+
+set d_max_gain = 45
+set d_max_advance = 35
+
+set motor_output_limit = 95
+
+set iterm_rotation = ON
+set iterm_relax = RP
+set iterm_relax_type = GYRO
+set iterm_relax_cutoff = 11
+set iterm_windup = 85
+set pidsum_limit = 500
+set pidsum_limit_yaw = 400
+set yaw_lowpass_hz = 0
+set throttle_boost = 5
+set throttle_boost_cutoff = 25
+
+set dterm_lpf1_dyn_min_hz = 100
+set dterm_lpf1_dyn_max_hz = 200
+set dterm_lpf1_dyn_expo = 5
+set dterm_lpf1_type = PT1
+set dterm_lpf1_static_hz = 0
+set dterm_lpf2_type = PT1
+set dterm_lpf2_static_hz = 0
+set dterm_notch_hz = 0
+set dterm_notch_cutoff = 0
+set vbat_sag_compensation = 0
+set pid_at_min_throttle = ON
+set anti_gravity_gain = 10
+set anti_gravity_cutoff_hz = 5
+set anti_gravity_p_gain = 100
+set acc_limit_yaw = 0
+set acc_limit = 0
+
+set rpm_filter_harmonics = 3
+set rpm_filter_weights = 100,95,100
+set rpm_filter_q = 500
+set rpm_filter_min_hz = 50
+set rpm_filter_fade_range_hz = 50
+set rpm_filter_lpf_hz = 150
+set gyro_lpf1_type = BIQUAD
+
+set deadband = 0
+set yaw_deadband = 1
+set rc_smoothing = ON
+set rc_smoothing_auto_factor = 130
+
+set dyn_notch_count = 2
+set dyn_notch_q = 450
+set dyn_notch_min_hz = 60
+set dyn_notch_max_hz = 600
+set gyro_lpf1_dyn_min_hz = 90
+set gyro_lpf1_dyn_max_hz = 220
+set gyro_lpf1_dyn_expo = 5
+
+set tpa_mode = PD
+set tpa_rate = 35
+set tpa_breakpoint = 1350
+
+set launch_control_gain = 40
+set thrust_linear = 25
+set transient_throttle_limit = 0
+set feedforward_transition = 0
+set feedforward_averaging = 2_POINT
+set feedforward_smooth_factor = 65
+set feedforward_jitter_factor = 20
+set feedforward_boost = 20
+set feedforward_max_rate_limit = 90
+
+save
