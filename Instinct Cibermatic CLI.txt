@@ -72,7 +72,8 @@ set tpa_rate = 35
 set tpa_breakpoint = 1350
 
 set launch_control_gain = 40
-set thrust_linear = 25
+set thr_expo = 30
+set thrust_linear = 15
 set transient_throttle_limit = 0
 set feedforward_transition = 0
 set feedforward_averaging = 2_POINT
