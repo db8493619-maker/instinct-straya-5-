@@ -29,3 +29,7 @@ and
 
 "STAY TUNED"
 <img width="1490" height="616" alt="birdy rates on cibermatic throttlr" src="https://github.com/user-attachments/assets/4407700f-8fd0-4df1-82e2-24c7685dd4a1" />
+<img width="1907" height="632" alt="Cibermatic" src="https://github.com/user-attachments/assets/5663781e-1dad-4795-967d-212e41db67ad" />
+<img width="1584" height="780" alt="cibermatic pids" src="https://github.com/user-attachments/assets/61dc0f8f-a9af-4e3f-a037-145fec2cdbf0" />
+
+
