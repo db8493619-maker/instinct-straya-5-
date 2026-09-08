@@ -28,3 +28,4 @@ Fly on Instinct
 and 
 
 "STAY TUNED"
+<img width="1490" height="616" alt="birdy rates on cibermatic throttlr" src="https://github.com/user-attachments/assets/4407700f-8fd0-4df1-82e2-24c7685dd4a1" />
